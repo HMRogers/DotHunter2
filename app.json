@@ -19,7 +19,7 @@
     },
     "android": {
       "package": "com.paperhallway.dothunter",
-      "versionCode": 6,
+      "versionCode": 7,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0a0a1a"
@@ -39,8 +39,7 @@
             "minSdkVersion": 24
           }
         }
-      ],
-      "expo-asset"
+      ]
     ],
     "extra": {
       "eas": {
