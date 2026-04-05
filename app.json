@@ -19,7 +19,7 @@
     },
     "android": {
       "package": "com.paperhallway.dothunter",
-      "versionCode": 10,
+      "versionCode": 11,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0a0a1a"
